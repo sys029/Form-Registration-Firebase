@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserRegistration</string>
+    <string name="invalid_name">Please Enter Name</string>
+    <string name="invalid_place">Enter a place</string>
+    <string name="invalid_gender">Enter your gender</string>
+    <string name="invalid_password">Enter a password</string>
+    <string name="invalid_confirm_password">Password dont match</string>
+</resources>
